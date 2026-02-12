@@ -16,6 +16,7 @@ There are three types of loops in C:
     // code to be executed or loop body
 
  }
+    
  */
 #include <stdio.h>
 int main() {
