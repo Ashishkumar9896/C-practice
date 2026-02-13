@@ -1,0 +1,19 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings (if you want to exclude them)
+.vscode/
+
+# Temporary files
+*.tmp
+*~
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# macOS files
+.DS_Store
