@@ -7,7 +7,7 @@ int main(){
     int rev=0;
     while(i>0){
         int rem=i%10;
-        if(rem != 0){  // Skip zeros during reversal
+ if(rem != 0){  // Skip zeros during reversal
             rev=rev*10+rem;
         }
         i=i/10;
